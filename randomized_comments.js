@@ -40,6 +40,7 @@ let commentplaceholders = [
     "Вайфу Влада ❤ ©️ sadnessmilkshake",
     "\"Чумба, ты совсем ***? Сходи к мозгоправу, попей колёсики.\" ©️ MrLivixx",
     "\"С новым майсом\" ©️ egor_m",
+    "\"В Firefox нужно нажать клавишу Tab 17 раз, чтобы начать писать комментарий.\" ©️ Tegnio",
     "Вставьте и ВЫ свой комментарий! https://github.com/sqdsh/boticord-comments"
 ];
 

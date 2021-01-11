@@ -6,6 +6,8 @@ let commentplaceholders = [
     "\":troled: :thumbsup:\" ©️ KosEnO4eK",
     "\"Чё каво? Куда? Откуда как? А чё круто.\" ©️ KosEnO4eK",
     "\":niko_upset:\" ©️ vlfz",
+    "\"Главное работает, а как, не имеет значения\" © Mellow",
+    "\"Восстание машин наступ совсем скоро!\" © Mellow",
     "\":niko_uwu:\" ©️ vlfz",
     "\"Москва проснулась\" ©️ D1nos4urr",
     "\":kavo:\" ©️ Redichka (perssBest)",

@@ -5,7 +5,7 @@ let commentplaceholders = [
     "\"Тыкайте по буковкам, чтобы написать слова\" ©️ egor_m",
     "\":troled: :thumbsup:\" ©️ KosEnO4eK",
     "\"до связи\" ©️ elemelkya",
-    "\"CTRL + F5\" ©️ elemelkya",
+    "\"ЕЩЕ РАЗ ПОВТОРЯЮ: CTRL+F5\" ©️ elemelkya",
     "\"super-botsuper-botsuper-botsuper-botsuper-\" ©️ elemelkya",
     "\"Чё каво? Куда? Откуда как? А чё круто.\" ©️ KosEnO4eK",
     "\":niko_upset:\" ©️ vlfz",

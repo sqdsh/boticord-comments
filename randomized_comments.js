@@ -64,6 +64,7 @@ let commentplaceholders = [
     "\"КУДА ТЫКОТЬ?????\" ©️ MillerD3V",
     "\"Смотри сюда :persevere:\" ©️ MillerD3V",
     "\":zhmihClown:\" ©️ MillerD3V",
+    "\"C КАКОЙ КСТАТИ ААAAAAA?!\" ©️ helldoodle",
     "\"Uncaught TypeError: Cannot read property comment of undefined\" ©️ Tegnio"
 ];
 

@@ -38,9 +38,9 @@ let commentplaceholders = [
     "\"Где я? Кто я? Что я?\" ©️ TheDariol",
     "\":achevsmysle:\"",
     "\"чел ты... комментарий пиши давай :sliva:\" ©️ TheFerryn",
-    "https://www.youtube.com/watch?v=dQw4w9WgXcQ ©️ sadnessmilkshake",
-    "Люблю Егора ❤ ©️ sadnessmilkshake",
-    "Вайфу Влада ❤ ©️ sadnessmilkshake",
+    "\"https://www.youtube.com/watch?v=dQw4w9WgXcQ\" ©️ sadnessmilkshake",
+    "\"Люблю Егора ❤\" ©️ sadnessmilkshake",
+    "\"Вайфу Влада ❤\" ©️ sadnessmilkshake",
     "\"Чумба, ты совсем ***? Сходи к мозгоправу, попей колёсики.\" ©️ MrLivixx",
     "\"С новым майсом\" ©️ egor_m",
     "\"В Firefox нужно нажать клавишу Tab минимум 17 раз, чтобы начать писать комментарий.\" ©️ Tegnio",
@@ -72,3 +72,13 @@ let commentplaceholders = [
 let randomizedcomment = commentplaceholders[Math.floor(Math.random() * commentplaceholders.length)];
 let commentplaceholder = document.getElementById("commentBody");
 if(commentplaceholder) commentplaceholder.placeholder = randomizedcomment;
+
+let searchplaceholders = [
+    "Циферка, что ты сделал?",
+    "Nep-nep? Nep-nep!",
+    "Поиск..."
+];
+
+let randomizedsearch = searchplaceholders[Math.floor(Math.random() * searchplaceholders.length)];
+let searchplaceholder = document.getElementById("searchBot");
+if(searchplaceholder) searchplaceholder.placeholder = randomizedsearch;

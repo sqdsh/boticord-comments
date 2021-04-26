@@ -25,6 +25,8 @@ let commentplaceholders = [
     "\"КАК ЭТА ШТУКА РАБОТАЕТ!??!?!\" ©️ neppedboy",
     "\"Напишите своё заклинание, что бы получить эффект магии!\" ©️ neppedboy",
     "\"Введите свой комментарий и получите плюшевую и мягкую Непку в подарок\" ©️ neppedboy",
+    "\"Пожалуйста, сделайте такой комментарий, который не тронет ничьё сердечко, это важно!\" @ neppedboy",
+    "\"Ребятки, пожалуйста не делайте никому больно своими словечками! >__<\" ©️ neppedboy",
     "\":chereshnya:\" ©️ SunRise",
     "\"klas :thumbsup:\" ©️ SunRise",
     "\"ПИШИ СЮДА СВОИ СЛОВА\" ©️ kotikD3V",
@@ -76,7 +78,9 @@ if(commentplaceholder) commentplaceholder.placeholder = randomizedcomment;
 let searchplaceholders = [
     "Циферка, что ты сделал?",
     "Nep-nep? Nep-nep!",
-    "Поиск..."
+    "Поиск...",
+    "Сделайте свой запросик и получите новенького ботика к себе в домик!~",
+    "Если вы сделаете запросик то получите плюшевую Неп-Неп"
 ];
 
 let randomizedsearch = searchplaceholders[Math.floor(Math.random() * searchplaceholders.length)];

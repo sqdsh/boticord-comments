@@ -69,7 +69,8 @@ let commentplaceholders = [
     "\"C КАКОЙ КСТАТИ ААAAAAA?!\" ©️ helldoodle",
     "\"Uncaught TypeError: Cannot read property 'comment' of undefined\" ©️ Tegnio",
     "\"хочу сыр косичку!\" ©️ TheMisterSenpai",
-    "\"ждем-с\" ©️ TheMisterSenpai"
+    "\"ждем-с\" ©️ TheMisterSenpai",
+    "\"Подождика, а что сюда писать? Гневный или добрый комент?\" ©️ Vabby"
     // "Майс воскрес 👀"
 ];
 
